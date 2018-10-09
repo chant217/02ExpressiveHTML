@@ -1,0 +1,22 @@
+body{
+	margin-left:500px;
+}
+
+h1{
+	font-family: "futura", sans-serif;
+	text-align: left;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+p{
+	text-shadow: 4px 5px red;
+	font-family: 'Dosis', sans-serif;
+	font-size: 45px;
+}
+
+p:hover{
+	text-shadow: 4px 30px red;
+	font-family: 'Dosis', sans-serif;
+	font-size: 45px;
+}
