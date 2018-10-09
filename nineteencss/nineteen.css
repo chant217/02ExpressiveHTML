@@ -1,0 +1,102 @@
+body{
+	font-family: 'Avenir Next';
+	text-transform: uppercase;
+	text-align: center;
+}
+
+p{
+	margin-bottom: 100px;
+}
+
+p:hover{
+	margin-bottom: 100px;
+}
+
+h1{
+	font-size: 150px;
+
+}
+
+#one{
+	height: 300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#one:hover{
+	height: 300px;
+	width: 550px;
+	content:url(https://screenmusings.org/movie/blu-ray/Bonnie-and-Clyde/images/Bonnie-and-Clyde-051.jpg);
+}
+
+#two{
+	height: 300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#two:hover{
+	height: 300px;
+	width: 550px;
+	content:url(https://screenmusings.org/movie/blu-ray/Bonnie-and-Clyde/images/Bonnie-and-Clyde-204.jpg);
+}
+
+#three{
+	height: 300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#three:hover{
+	height: 300px;
+	width: 550px;
+	content:url(https://screenmusings.org/movie/blu-ray/Bonnie-and-Clyde/images/Bonnie-and-Clyde-567.jpg);
+}
+
+#four{
+	height:300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#four:hover{
+	height:300px;
+	width: 550px;
+	content:url(https://screenmusings.org/movie/blu-ray/Bonnie-and-Clyde/images/Bonnie-and-Clyde-460.jpg);
+}
+
+#five{
+	height:300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#five:hover{
+	height:300px;
+	width: 550px;
+	content:url(https://screenmusings.org/movie/blu-ray/Bonnie-and-Clyde/images/Bonnie-and-Clyde-425.jpg);
+}
+
+#six{
+	height:300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#six:hover{
+	height:300px;
+	width: 550px;
+	content:url(https://screenmusings.org/movie/blu-ray/Bonnie-and-Clyde/images/Bonnie-and-Clyde-375.jpg);
+}
+
+#seven{
+	height:300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#seven:hover{
+	height:300px;
+	width: 550px;
+	content:url(https://screenmusings.org/movie/blu-ray/Bonnie-and-Clyde/images/Bonnie-and-Clyde-209.jpg);
+}
