@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+}
+
+p{
+	color: white;
+	font-family: monospace;
+	text-transform: lowercase;
+}
+
+h4{
+	color: indianred;
+	font-family: monospace;
+	text-transform: uppercase;
+	font-size: 50px;
+}
