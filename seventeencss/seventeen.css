@@ -1,0 +1,37 @@
+p{
+	line-height: 1.8;
+	text-align: right;
+	margin-left:700px;
+	margin-right:50px;
+	font-size: 25px;
+	font-family: "georgia";
+	color: white;
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+p:hover{
+	line-height: 1.8;
+	text-align: left;
+	margin-left:700px;
+	margin-right:50px;
+	font-size: 25px;
+	font-family: "georgia";
+	color: white;
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+h1{
+	line-height: 1;
+	text-align: right;
+	margin-left:700px;
+	margin-right:50px;
+	font-size: 30px;
+	font-family: "georgia";
+	color: white;
+	text-transform: uppercase;
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+body{
+	background-image: url(https://image.ibb.co/m7nFDp/seventeenbackground.jpg);
+}
