@@ -26,7 +26,7 @@ h1{
 #one:hover{
 	height: 300px;
 	width: 550px;
-	content:url('B&C1.jpg');
+	content:src('B&C1.jpg');
 }
 
 #two{
