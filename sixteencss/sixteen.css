@@ -1,0 +1,70 @@
+body{
+	background-color: black;
+	color: black;
+	font-family: "futura", sans sarif;
+	font-size: 50px;
+	line-height: 1;
+	text-align: center;
+}
+
+h1{
+	position: absolute;
+	left: 100px;
+	font-size: 100px;
+	line-height: 1;
+	text-transform: uppercase;
+	text-align: left;
+	color: white;
+}
+
+img{
+	position: absolute;
+	right: 0px;
+	height:700px;
+	margin-right: 100px;
+	
+}
+
+.clearfix{
+	overflow: auto;
+}
+
+p{
+	position: relative;
+	color: black;
+	font-family: "futura", sans sarif;
+	font-size: 50px;
+	line-height: 1;
+	text-align: center;
+}
+
+p:hover{
+	position: relative;
+	color: white;
+	font-family: "futura", sans sarif;
+	font-size: 50px;
+	line-height: 1;
+	text-align: center;
+}
+
+article{
+	padding-top: 800px
+}
+
+b{
+	color:black;
+	font-family: "futura", sans sarif;
+	font-size: 50px;
+	line-height: 1;
+	text-align: center;
+}
+
+b:hover{
+	color:red;
+	font-family: "futura", sans sarif;
+	font-size: 50px;
+	line-height: 1;
+	text-align: center;
+}
+
+
