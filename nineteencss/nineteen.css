@@ -1,0 +1,103 @@
+body{
+	font-family: 'Avenir Next';
+	text-transform: uppercase;
+	text-align: center;
+}
+
+p{
+	margin-bottom: 100px;
+}
+
+p:hover{
+	margin-bottom: 100px;
+}
+
+h1{
+	font-size: 150px;
+
+}
+
+#one{
+	height: 300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#one:hover{
+	height: 300px;
+	width: 550px;
+	content:url('https://i.imgur.com/6Xx3sRl.jpg');
+}
+
+#two{
+	height: 300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#two:hover{
+	height: 300px;
+	width: 550px;
+	content:url('https://i.imgur.com/YxQUWVI.jpg');
+}
+
+#three{
+	height: 300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#three:hover{
+	height: 300px;
+	width: 550px;
+	content:url('https://i.imgur.com/4SFho3f.jpg');
+}
+
+#four{
+	height:300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#four:hover{
+	height:300px;
+	width: 550px;
+	content:url('https://i.imgur.com/VcNQmh9.jpg');
+}
+
+#five{
+	height:300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#five:hover{
+	height:300px;
+	width: 550px;
+	content:url('https://i.imgur.com/2w6feGn.jpg');
+}
+
+#six{
+	height:300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#six:hover{
+	height:300px;
+	width: 550px;
+	content:url('https://i.imgur.com/ZT4mfZT.jpg');
+}
+
+#seven{
+	height:300px;
+	width: 550px;
+	font-size: 25px;
+}
+
+#seven:hover{
+	height:300px;
+	width: 550px;
+	content:url('https://i.imgur.com/oeRIefs.jpg');
+}
+
